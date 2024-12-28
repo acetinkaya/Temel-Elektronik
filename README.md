@@ -1,3 +1,3 @@
 # TEMEL ELEKTRONİK I DERSİ
 
-Temel Elektronik 1
+ETP251-TEMEL ELEKTRONİK I DERSİ İÇERİĞİ
