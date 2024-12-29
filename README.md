@@ -7,3 +7,5 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 İçerik:  Bu dersin içeriği, Yarı İletken Teknolojisi, Elektronik Devre Elemanları, Akım, Gerilim, Direnç, Ohm Kanunu, Enerji, Güç, Seri Direnç Devreleri & Uygulamaları, Paralel Direnç Devreleri & Uygulamaları, Diyotlar & Diyot Uygulamaları, Transistörler &  Transistör Uygulamaları, Sayı Sistemleri, Lojik Kapılar & Lojik Kapı Uygulamaları, Elektronikte İş Güvenliği anlatılacaktır. 
 
 DERSİN ÖĞRENME ÇIKTILARI
+
+Elektronik Devre Elemanlarını Tanıma: Öğrenciler yarı iletkenler, dirençler, diyotlar ve transistörler gibi temel elektronik devre elemanlarını tanıyacak ve bu elemanların çalışma prensiplerini açıklayabilecektir.
