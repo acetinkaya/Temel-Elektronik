@@ -18,8 +18,8 @@ DERSİN ÖĞRENME ÇIKTILARI
 
 * Diyot ve Transistörlerin Çalışma Prensipleri: Diyot ve transistörlerin elektronik devrelerdeki rolünü anlayarak, bu elemanların uygulama alanlarını kavrayacak ve temel devre tasarımlarında kullanabilecektir.
 
-Dijital Elektroniğin Temelleri: Sayı sistemleri ve lojik kapıları öğrenerek, dijital elektronik devrelerinin mantığını kavrayabilecek ve basit lojik devreleri tasarlayabilecektir.
+* Dijital Elektroniğin Temelleri: Sayı sistemleri ve lojik kapıları öğrenerek, dijital elektronik devrelerinin mantığını kavrayabilecek ve basit lojik devreleri tasarlayabilecektir.
 
-Elektronikte İş Güvenliği Bilinci: Elektronik devrelerde çalışırken iş güvenliği kurallarını öğrenerek, güvenli çalışma prensiplerini uygulayabilecektir.
+* Elektronikte İş Güvenliği Bilinci: Elektronik devrelerde çalışırken iş güvenliği kurallarını öğrenerek, güvenli çalışma prensiplerini uygulayabilecektir.
 
-Problemleri Analiz Edebilme ve Çözümleme: Gerçek dünyadan elektronik problemleri çözme yeteneğini geliştirecek ve öğrendiği teorik bilgileri pratik projelere uygulayabilecektir.
+* Problemleri Analiz Edebilme ve Çözümleme: Gerçek dünyadan elektronik problemleri çözme yeteneğini geliştirecek ve öğrendiği teorik bilgileri pratik projelere uygulayabilecektir.
