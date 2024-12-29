@@ -13,3 +13,5 @@ Elektronik Devre Elemanlarını Tanıma: Öğrenciler yarı iletkenler, dirençl
 Temel Elektriksel Kavramları Anlama: Akım, gerilim ve direnç gibi temel elektriksel kavramları anlayarak, bu kavramların elektronik devrelerde nasıl etkileştiğini analiz edebilecektir.
 
 Ohm Kanunu ve Güç Hesaplamaları: Ohm Kanunu'nu kullanarak seri ve paralel devrelerde akım, gerilim ve direnç hesaplamaları yapabilecek; enerji ve güç hesaplarını uygulamalı olarak gerçekleştirebilecektir.
+
+Devre Çözümleri ve Tasarımı: Seri ve paralel direnç devrelerinin analizini yapabilecek ve bu devreleri pratik uygulamalarla çözebilecektir.
