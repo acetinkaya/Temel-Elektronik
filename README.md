@@ -8,9 +8,9 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 DERSİN ÖĞRENME ÇIKTILARI
 
-Elektronik Devre Elemanlarını Tanıma: Öğrenciler yarı iletkenler, dirençler, diyotlar ve transistörler gibi temel elektronik devre elemanlarını tanıyacak ve bu elemanların çalışma prensiplerini açıklayabilecektir.
+* Elektronik Devre Elemanlarını Tanıma: Öğrenciler yarı iletkenler, dirençler, diyotlar ve transistörler gibi temel elektronik devre elemanlarını tanıyacak ve bu elemanların çalışma prensiplerini açıklayabilecektir.
 
-Temel Elektriksel Kavramları Anlama: Akım, gerilim ve direnç gibi temel elektriksel kavramları anlayarak, bu kavramların elektronik devrelerde nasıl etkileştiğini analiz edebilecektir.
+* Temel Elektriksel Kavramları Anlama: Akım, gerilim ve direnç gibi temel elektriksel kavramları anlayarak, bu kavramların elektronik devrelerde nasıl etkileştiğini analiz edebilecektir.
 
 Ohm Kanunu ve Güç Hesaplamaları: Ohm Kanunu'nu kullanarak seri ve paralel devrelerde akım, gerilim ve direnç hesaplamaları yapabilecek; enerji ve güç hesaplarını uygulamalı olarak gerçekleştirebilecektir.
 
@@ -21,3 +21,5 @@ Diyot ve Transistörlerin Çalışma Prensipleri: Diyot ve transistörlerin elek
 Dijital Elektroniğin Temelleri: Sayı sistemleri ve lojik kapıları öğrenerek, dijital elektronik devrelerinin mantığını kavrayabilecek ve basit lojik devreleri tasarlayabilecektir.
 
 Elektronikte İş Güvenliği Bilinci: Elektronik devrelerde çalışırken iş güvenliği kurallarını öğrenerek, güvenli çalışma prensiplerini uygulayabilecektir.
+
+Problemleri Analiz Edebilme ve Çözümleme: Gerçek dünyadan elektronik problemleri çözme yeteneğini geliştirecek ve öğrendiği teorik bilgileri pratik projelere uygulayabilecektir.
