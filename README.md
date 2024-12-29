@@ -2,5 +2,5 @@
 
 ETP251-TEMEL ELEKTRONİK I DERSİ İÇERİĞİ
 
-DERS BİLGİLERİ
+Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensiplerini, elektronik devrelerin analizini ve tasarımını öğretmektir. 
 
