@@ -16,7 +16,7 @@ DERSİN ÖĞRENME ÇIKTILARI
 
 * Devre Çözümleri ve Tasarımı: Seri ve paralel direnç devrelerinin analizini yapabilecek ve bu devreleri pratik uygulamalarla çözebilecektir.
 
-Diyot ve Transistörlerin Çalışma Prensipleri: Diyot ve transistörlerin elektronik devrelerdeki rolünü anlayarak, bu elemanların uygulama alanlarını kavrayacak ve temel devre tasarımlarında kullanabilecektir.
+* Diyot ve Transistörlerin Çalışma Prensipleri: Diyot ve transistörlerin elektronik devrelerdeki rolünü anlayarak, bu elemanların uygulama alanlarını kavrayacak ve temel devre tasarımlarında kullanabilecektir.
 
 Dijital Elektroniğin Temelleri: Sayı sistemleri ve lojik kapıları öğrenerek, dijital elektronik devrelerinin mantığını kavrayabilecek ve basit lojik devreleri tasarlayabilecektir.
 
