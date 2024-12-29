@@ -9,3 +9,5 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 DERSİN ÖĞRENME ÇIKTILARI
 
 Elektronik Devre Elemanlarını Tanıma: Öğrenciler yarı iletkenler, dirençler, diyotlar ve transistörler gibi temel elektronik devre elemanlarını tanıyacak ve bu elemanların çalışma prensiplerini açıklayabilecektir.
+
+Temel Elektriksel Kavramları Anlama: Akım, gerilim ve direnç gibi temel elektriksel kavramları anlayarak, bu kavramların elektronik devrelerde nasıl etkileştiğini analiz edebilecektir.
