@@ -19,3 +19,5 @@ Devre Çözümleri ve Tasarımı: Seri ve paralel direnç devrelerinin analizini
 Diyot ve Transistörlerin Çalışma Prensipleri: Diyot ve transistörlerin elektronik devrelerdeki rolünü anlayarak, bu elemanların uygulama alanlarını kavrayacak ve temel devre tasarımlarında kullanabilecektir.
 
 Dijital Elektroniğin Temelleri: Sayı sistemleri ve lojik kapıları öğrenerek, dijital elektronik devrelerinin mantığını kavrayabilecek ve basit lojik devreleri tasarlayabilecektir.
+
+Elektronikte İş Güvenliği Bilinci: Elektronik devrelerde çalışırken iş güvenliği kurallarını öğrenerek, güvenli çalışma prensiplerini uygulayabilecektir.
