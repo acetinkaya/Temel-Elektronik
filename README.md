@@ -15,3 +15,5 @@ Temel Elektriksel Kavramları Anlama: Akım, gerilim ve direnç gibi temel elekt
 Ohm Kanunu ve Güç Hesaplamaları: Ohm Kanunu'nu kullanarak seri ve paralel devrelerde akım, gerilim ve direnç hesaplamaları yapabilecek; enerji ve güç hesaplarını uygulamalı olarak gerçekleştirebilecektir.
 
 Devre Çözümleri ve Tasarımı: Seri ve paralel direnç devrelerinin analizini yapabilecek ve bu devreleri pratik uygulamalarla çözebilecektir.
+
+Diyot ve Transistörlerin Çalışma Prensipleri: Diyot ve transistörlerin elektronik devrelerdeki rolünü anlayarak, bu elemanların uygulama alanlarını kavrayacak ve temel devre tasarımlarında kullanabilecektir.
