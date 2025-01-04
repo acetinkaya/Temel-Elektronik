@@ -33,3 +33,7 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 3. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
 
 Hafta - Seri Direnç Devreleri ve Uygulamaları
+
+Hafta - Paralel Direnç Devreleri ve Uygulamaları
+
+
