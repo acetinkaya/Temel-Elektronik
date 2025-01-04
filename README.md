@@ -50,9 +50,9 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 12. Hafta - Lojik Kapılar
 
-Hafta - Lojik Kapı Uygulamaları
+13. Hafta - Lojik Kapı Uygulamaları
 
-Hafta - Elektronikte İş Güvenliği
+14. Hafta - Elektronikte İş Güvenliği
 
 Hafta - Final Sınavı Haftası
 
