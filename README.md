@@ -54,4 +54,5 @@ Hafta - Lojik Kapı Uygulamaları
 
 Hafta - Elektronikte İş Güvenliği
 
+Hafta - Final Sınavı Haftası
 
