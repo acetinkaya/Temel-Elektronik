@@ -56,3 +56,8 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 15. Hafta - Final Sınavı Haftası
 
+## KAYNAKLAR
+
+M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
+
+
