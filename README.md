@@ -46,5 +46,6 @@ Hafta - Transistörler
 
 Hafta - Transistör Uygulamaları
 
+Hafta - Sayı Sistemleri
 
 
