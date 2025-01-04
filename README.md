@@ -60,4 +60,5 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
+Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
 
