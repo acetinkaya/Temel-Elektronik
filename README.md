@@ -58,8 +58,8 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 ## KAYNAKLAR
 
-M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
+Prof. Dr. Hüseyin Ekiz, "Mantık devreleri:(sayısal elektronik)". Değişim Yayınları. 2010.
 
 Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
 
-Prof. Dr. Hüseyin Ekiz, "Mantık devreleri:(sayısal elektronik)". Değişim Yayınları. 2010.
+M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
