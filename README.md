@@ -38,9 +38,9 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 6. Hafta - Diyotlar
 
-Hafta - Diyot Uygulamaları
+7. Hafta - Diyot Uygulamaları
 
-Hafta - Vize Sınavı Haftası
+8. Hafta - Vize Sınavı Haftası
 
 Hafta - Transistörler
 
