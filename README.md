@@ -29,3 +29,6 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
 
 2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, Enerji ve Güç
+
+3. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
+
