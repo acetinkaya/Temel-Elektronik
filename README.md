@@ -42,9 +42,9 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 8. Hafta - Vize Sınavı Haftası
 
-Hafta - Transistörler
+9. Hafta - Transistörler
 
-Hafta - Transistör Uygulamaları
+10. Hafta - Transistör Uygulamaları
 
 Hafta - Sayı Sistemleri
 
