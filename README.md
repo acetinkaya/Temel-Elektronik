@@ -46,9 +46,9 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 10. Hafta - Transistör Uygulamaları
 
-Hafta - Sayı Sistemleri
+11. Hafta - Sayı Sistemleri
 
-Hafta - Lojik Kapılar
+12. Hafta - Lojik Kapılar
 
 Hafta - Lojik Kapı Uygulamaları
 
