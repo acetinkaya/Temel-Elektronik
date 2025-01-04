@@ -38,3 +38,4 @@ Hafta - Paralel Direnç Devreleri ve Uygulamaları
 
 Hafta - Diyotlar
 
+Hafta - Diyot Uygulamaları
