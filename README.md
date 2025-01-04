@@ -43,3 +43,8 @@ Hafta - Diyot Uygulamaları
 Hafta - Vize Sınavı Haftası
 
 Hafta - Transistörler
+
+Hafta - Transistör Uygulamaları
+
+
+
