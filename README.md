@@ -54,5 +54,5 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 14. Hafta - Elektronikte İş Güvenliği
 
-Hafta - Final Sınavı Haftası
+15. Hafta - Final Sınavı Haftası
 
