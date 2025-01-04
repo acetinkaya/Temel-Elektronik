@@ -50,3 +50,4 @@ Hafta - Sayı Sistemleri
 
 Hafta - Lojik Kapılar
 
+Hafta - Lojik Kapı Uygulamaları
