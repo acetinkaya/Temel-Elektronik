@@ -48,4 +48,5 @@ Hafta - Transistör Uygulamaları
 
 Hafta - Sayı Sistemleri
 
+Hafta - Lojik Kapılar
 
