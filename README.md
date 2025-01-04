@@ -36,4 +36,5 @@ Hafta - Seri Direnç Devreleri ve Uygulamaları
 
 Hafta - Paralel Direnç Devreleri ve Uygulamaları
 
+Hafta - Diyotlar
 
