@@ -83,7 +83,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Transistörlerin çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | Transistör, akımı kontrol etmek veya anahtarlamak amacıyla kullanılan üç uçlu bir yarı iletken devre elemanıdır. Üç bacağı vardır: B (Base),  C (Collector) ve E (Emitter) uçlarıdır. Temel görevi olarak Transistör, küçük bir giriş akımı (Base) ile daha büyük bir akımı (Collector → Emitter) kontrol etmeye olanak sağlar. |
 | Mosfetlerin çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | MOSFET, gerilim kontrollü bir alan etkili transistör (FET) türüdür. En büyük farkı, akım değil gerilimle kontrol edilmesidir. 3 Ucu vardır:
 •	Gate (G) – Kapı: Kontrol gerilimi uygulanır
-
+•	Drain (D) – Drenaj: 
 |
 |||
 |||
