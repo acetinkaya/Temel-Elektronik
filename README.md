@@ -76,5 +76,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları   
 
-Diyotların çeşitleri nelerdir?
+Diyotların çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir?
 
