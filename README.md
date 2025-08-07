@@ -79,7 +79,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Elektronik Devre Elemanları | İçeriği                        | 
 |----------------------|---------------------------------------|
 |Diyotların çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | Diyot, elektriğin yalnızca bir yönde akmasına izin veren bir yarı iletken devre elemanıdır. Doğru polarma altında iletken, ters polarma altında ise yalıtkandır. Bu özelliğiyle alternatif akımı doğru akıma çevirmede (doğrultma) kullanılır. Diyotlar; Doğrultucu diyot, Zener Diyot, Led diyot, Schottky diyot, Foto diyot, Lazer diyot olarak çeşitleri bulunmaktadır. |
-| Temel elektronik bileşenlerden Röle, Buton ve Breadboard kavramları nedir? | Röle, düşük güçlü bir sinyalle (örneğin: mikrodenetleyici çıkışıyla) yüksek güçlü bir devreyi  anahtarlamaya yarayan elektromekanik bir anahtarlama elemanıdır. Buton, kullanıcı tarafından elle kontrol edilen ve bastığınızda devreyi geçici olarak açan/kapanan bir anahtardır. Breadboard, lehim gerektirmeden elektronik bileşenleri  | 
+| Temel elektronik bileşenlerden Röle, Buton ve Breadboard kavramları nedir? | Röle, düşük güçlü bir sinyalle (örneğin: mikrodenetleyici çıkışıyla) yüksek güçlü bir devreyi  anahtarlamaya yarayan elektromekanik bir anahtarlama elemanıdır. Buton, kullanıcı tarafından elle kontrol edilen ve bastığınızda devreyi geçici olarak açan/kapanan bir anahtardır. Breadboard, lehim gerektirmeden elektronik bileşenleri geçici olarak bağlamak için kullanılan bir prototipleme tahtasıdır. | 
 |----------------------|---------------------------------------|
 
  
