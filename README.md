@@ -78,4 +78,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 Diyotların çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir?
 
-Diyot, elektriğin yalnızca bir yönde akmasına izin veren bir yarı iletken devre elemanıdır. 
+Diyot, elektriğin yalnızca bir yönde akmasına izin veren bir yarı iletken devre elemanıdır. Doğru polarma altında iletken, 
