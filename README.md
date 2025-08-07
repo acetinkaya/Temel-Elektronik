@@ -81,7 +81,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |Diyotların çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | Diyot, elektriğin yalnızca bir yönde akmasına izin veren bir yarı iletken devre elemanıdır. Doğru polarma altında iletken, ters polarma altında ise yalıtkandır. Bu özelliğiyle alternatif akımı doğru akıma çevirmede (doğrultma) kullanılır. Diyotlar; Doğrultucu diyot, Zener Diyot, Led diyot, Schottky diyot, Foto diyot, Lazer diyot olarak çeşitleri bulunmaktadır. |
 | Temel elektronik bileşenlerden Röle, Buton ve Breadboard kavramları nedir? | Röle, düşük güçlü bir sinyalle (örneğin: mikrodenetleyici çıkışıyla) yüksek güçlü bir devreyi  anahtarlamaya yarayan elektromekanik bir anahtarlama elemanıdır. Buton, kullanıcı tarafından elle kontrol edilen ve bastığınızda devreyi geçici olarak açan/kapanan bir anahtardır. Breadboard, lehim gerektirmeden elektronik bileşenleri geçici olarak bağlamak için kullanılan bir prototipleme tahtasıdır. | 
 | Transistörlerin çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | Transistör, akımı kontrol etmek veya anahtarlamak amacıyla kullanılan üç uçlu bir yarı iletken devre elemanıdır. Üç bacağı vardır: B (Base),  C (Collector) ve E (Emitter) uçlarıdır. Temel görevi olarak Transistör, küçük bir giriş akımı (Base) ile daha büyük bir akımı (Collector → Emitter) kontrol etmeye olanak sağlar. |
-| Mosfetlerin çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | MOSFET, |
+| Mosfetlerin çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | MOSFET, gerilim kontrollü bir alan etkili transistör (FET) türüdür. En büyük farkı, akım değil  |
 |||
 |||
 |||
