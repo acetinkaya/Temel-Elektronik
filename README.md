@@ -85,7 +85,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 •	Gate (G) – Kapı: Kontrol gerilimi uygulanır
 •	Drain (D) – Drenaj: Yük burada bulunur
 •	Source (S) – Kaynak: Akımın çıkış noktasıdır
-
+MOSFET’lerin Temel Görevileri: 
 |
 |||
 |||
