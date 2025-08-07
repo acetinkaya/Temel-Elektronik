@@ -84,7 +84,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Mosfetlerin çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | MOSFET, gerilim kontrollü bir alan etkili transistör (FET) türüdür. En büyük farkı, akım değil gerilimle kontrol edilmesidir. 3 Ucu vardır:
 •	Gate (G) – Kapı: Kontrol gerilimi uygulanır
 •	Drain (D) – Drenaj: Yük burada bulunur
-
+•	Source (S) – Kaynak: 
 |
 |||
 |||
