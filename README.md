@@ -66,8 +66,13 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 Öğr. Gör. Ali Çetinkaya’nın internet sayfaları: 
     * https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
-    * https://avesis.gelisim.edu.tr/alcetinkaya 
+    * https://avesis.gelisim.edu.tr/alcetinkaya    
 
-## Dersin Verildiği Dönem ve Bilgiler
+## Dersin Verildiği Dönem ve Bilgiler       
 
-2024-2025 Güz Dönemi - İGÜ İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı - (N.Ö. 25 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-genel-bilgiler-4-210-16561-0
+2024-2025 Güz Dönemi - İGÜ İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı - (N.Ö. 25 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-genel-bilgiler-4-210-16561-0    
+
+## HAFTALIK DERS NOTLARI    
+
+1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları   
+
