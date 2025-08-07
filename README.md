@@ -78,7 +78,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Elektronik Devre Elemanları | İçeriği                        | 
 |----------------------|---------------------------------------|
-|Diyotların çeşitleri nelerdir? |---------------------------------------|
+|Diyotların çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? |---------------------------------------|
 |----------------------|---------------------------------------|
 |----------------------|---------------------------------------|
 
