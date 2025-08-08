@@ -96,5 +96,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 3. Hafta - Seri Direnç Devreleri ve Uygulamaları
 
-| Seri Direnç Devre | Açıklaması                     |    
+| Seri Direnç Kavramı | Açıklaması                     |    
 |----------------------|---------------------------------------|   
+| Seri bağlı direnç kavramı nedir? 
+
