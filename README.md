@@ -98,5 +98,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Seri Direnç Kavramı | Açıklaması                     |    
 |----------------------|---------------------------------------|   
-| Seri bağlı direnç kavramı nedir? 
+| Seri bağlı direnç kavramı nedir? Arka arkada seri olarak bağlanmış 
+
 
