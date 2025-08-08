@@ -88,7 +88,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 2. Hafta    
 | Elektronik Devre Elemanları | Açıklaması                     |    
 |----------------------|---------------------------------------|     
-
+|Direnç çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | Direnç, elektrik devrelerinde akımın geçişine karşı zorluk gösteren pasif bir devre elemanıdır.  Temel görevi; akımı sınırlamak, gerilim bölmek, ısı üretmek ya da başka bir devre elemanını korumaktır. Direnç çeşitleri; Sabit değerli dirençler, ayarlı dirençler, LDR, NTC ve PTC direnç olarak çeşitleri bulunmaktadır. |
 
 
 
