@@ -85,7 +85,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |Kondansatörler çeşitleri nelerdir? Devre elemanı olarak temel görevi nedir? | Kondansatör; iki iletken levha arasına yalıtkan (dielektrik) bir madde yerleştirilerek oluşturulmuş bir devre elemanıdır. Elektrik yükünü geçici olarak depolar ve gerektiğinde devreye bırakır. Kondansatörün Temel Görevleri: Enerji depolama, Filtreleme, Zamanlama devrelerinde süre belirleme, Güç kaynaklarında gerilim dengeleme ve AC-DC sinyal ayırımı için kuplaj/decouplaj işlemleridir. |
 | Temel elektronik bileşenlerden Röle, Buton ve Breadboard kavramları nedir? | Röle, düşük güçlü bir sinyalle (örneğin: mikrodenetleyici çıkışıyla) yüksek güçlü bir devreyi  anahtarlamaya yarayan elektromekanik bir anahtarlama elemanıdır. Buton, kullanıcı tarafından elle kontrol edilen ve bastığınızda devreyi geçici olarak açan/kapanan bir anahtardır. Breadboard, lehim gerektirmeden elektronik bileşenleri geçici olarak bağlamak için kullanılan bir prototipleme tahtasıdır. | 
 
-2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, 
+2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, Enerji ve Güç
    
 | Elektronik Devre Elemanları | Açıklaması                     |    
 |----------------------|---------------------------------------|     
