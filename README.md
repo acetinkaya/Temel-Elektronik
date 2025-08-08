@@ -89,7 +89,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
    
 | Elektronik Devre Kavramları | Açıklaması                     |    
 |----------------------|---------------------------------------|     
-| Elektriksel güç nedir  ve hangi birimle ölçülür? | Direnç, elektrik devrelerinde akımın geçişine karşı zorluk gösteren pasif bir devre elemanıdır.  Temel görevi; akımı sınırlamak, gerilim bölmek, ısı üretmek ya da başka bir devre elemanını korumaktır. Direnç çeşitleri; Sabit değerli dirençler, ayarlı dirençler, LDR, NTC ve PTC direnç olarak çeşitleri bulunmaktadır. |
+| Elektriksel güç nedir  ve hangi birimle ölçülür? | Elektriksel güç,  |     
 
 
 
