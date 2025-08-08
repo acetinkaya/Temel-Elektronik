@@ -89,7 +89,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
    
 | Elektronik Devre Kavramları | Açıklaması                     |    
 |----------------------|---------------------------------------|     
-| Elektriksel güç nedir  ve hangi birimle ölçülür? | Elektriksel güç,  |     
+| Elektriksel güç nedir  ve hangi birimle ölçülür? | Elektriksel güç,  bir elektrik devresinde |     
 
 
 
