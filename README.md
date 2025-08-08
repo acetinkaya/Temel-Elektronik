@@ -93,6 +93,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Ohm kanununa göre gerilim 12 volt, akım 2 amper olarak verilmiştir. Ohm kanununa göre direncin değeri nedir? | Formülü R = V / I şeklinde düzenleriz. 12 volt ÷ 2 amper = 6 ohm bulunur. |
 | Elektriksel güç nedir  ve hangi birimle ölçülür? | Elektriksel güç, bir elektrik devresinde birim zamanda harcanan ya da üretilen enerjiyi ifade eder. Formülü: P = V . I, Burada P güç (watt), V gerilim (volt), I akım (amper) anlamına gelir. Elektriksel güç, watt (W) birimiyle ölçülür. |  
 | Bir elektrikli ısıtıcı 220 V gerilimle çalışıyor ve 1100 W güç harcıyor. Bu ısıtıcı 5 saat çalıştırılırsa harcadığı-saat (kWh) olur? | Enerji = Güç × Zaman 'dir. Güç--> 1100 watt = 1.1 kilowatt , Zaman: 5 saat , Enerji = 1.1 kW × 5 saat = 5.5 kWh , Isıtıcı 5 saatte 
-
+5.5 kilowatt-saat enerji harcar |
 
 
