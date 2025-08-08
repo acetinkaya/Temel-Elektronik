@@ -98,6 +98,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Seri Direnç Kavramı | Açıklaması                     |    
 |----------------------|---------------------------------------|   
-| Seri bağlı direnç kavramı nedir? Arka arkada seri olarak bağlanmış 
+| Seri bağlı direnç kavramı nedir? Arka arkada seri olarak bağlanmış 4 ohm, 6 ohm ve 10 ohm’luk 
 
 
