@@ -86,7 +86,9 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Temel elektronik bileşenlerden Röle, Buton ve Breadboard kavramları nedir? | Röle, düşük güçlü bir sinyalle (örneğin: mikrodenetleyici çıkışıyla) yüksek güçlü bir devreyi  anahtarlamaya yarayan elektromekanik bir anahtarlama elemanıdır. Buton, kullanıcı tarafından elle kontrol edilen ve bastığınızda devreyi geçici olarak açan/kapanan bir anahtardır. Breadboard, lehim gerektirmeden elektronik bileşenleri geçici olarak bağlamak için kullanılan bir prototipleme tahtasıdır. | 
 
 2. Hafta
+| Elektronik Devre Elemanları | Açıklaması                     | 
 |----------------------|---------------------------------------|
+
 
 
 
