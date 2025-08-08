@@ -30,27 +30,27 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, Enerji ve Güç
 
-3. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
+3. Hafta - Seri Direnç Devreleri ve Uygulamaları
 
-4. Hafta - Seri Direnç Devreleri ve Uygulamaları
+4. Hafta - Paralel Direnç Devreleri ve Uygulamaları
 
-5. Hafta - Paralel Direnç Devreleri ve Uygulamaları
+5. Hafta - Diyotlar
 
-6. Hafta - Diyotlar
+6. Hafta - Diyot Uygulamaları
 
-7. Hafta - Diyot Uygulamaları
+7. Hafta - Vize Sınavı Haftası
 
-8. Hafta - Vize Sınavı Haftası
+8. Hafta - Transistörler
 
-9. Hafta - Transistörler
+9. Hafta - Transistör Uygulamaları
 
-10. Hafta - Transistör Uygulamaları
+10. Hafta - Sayı Sistemleri
 
-11. Hafta - Sayı Sistemleri
+11. Hafta - Lojik Kapılar
 
-12. Hafta - Lojik Kapılar
+12. Hafta - Lojik Kapı Uygulamaları
 
-13. Hafta - Lojik Kapı Uygulamaları
+13. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
 
 14. Hafta - Elektronikte İş Güvenliği
 
