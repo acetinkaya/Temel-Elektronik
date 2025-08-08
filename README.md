@@ -90,7 +90,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Elektronik Devre Kavramları | Açıklaması                     |    
 |----------------------|---------------------------------------|     
 | Elektriksel güç nedir  ve hangi birimle ölçülür? | Elektriksel güç, bir elektrik devresinde birim zamanda harcanan ya da üretilen enerjiyi ifade eder. Formülü: P = V . I, Burada P güç (watt), V gerilim (volt), I akım (amper) anlamına gelir. Elektriksel güç, watt (W) birimiyle ölçülür. |     
-| Ohm Kanunu nedir? Aşama Aşama örnekleyerek formül üzerinde anlatımınızı yapınız? | Ohm Kanunu, 
+| Ohm Kanunu nedir? Aşama Aşama örnekleyerek formül üzerinde anlatımınızı yapınız? | Ohm Kanunu, elektrik devrelerinde gerilim (V), 
 
 
 
