@@ -99,5 +99,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Seri Direnç Kavramı | Açıklaması                     |    
 |----------------------|---------------------------------------|   
 | Seri bağlı direnç kavramı nedir? Arka arkada seri olarak bağlanmış 4 ohm, 6 ohm ve 10 ohm’luk 3 adet direncin devre üzerinde oluşturduğu toplam direnç kaç ohm’dur? Devreye 40 Voltluk bir gerilim uygulandığında seri bağlı direnç üzerinden geçen akımı hesaplayınız? 
-(NOT: Birimleri 
+(NOT: Birimleri yazmayı unutmayınız) | |
 
