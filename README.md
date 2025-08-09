@@ -102,6 +102,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 4. Hafta - Paralel Direnç Devreleri ve Uygulamaları
 
-| Paralel  Direnç Kavramı | Açıklaması                     |   
+| Paralel  Direnç Kavramı | Açıklaması                         |   
 |----------------------|---------------------------------------|   
 | | |
