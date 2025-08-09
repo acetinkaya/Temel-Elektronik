@@ -96,7 +96,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 3. Hafta - Seri Direnç Devreleri ve Uygulamaları
 
-| Seri Direnç Kavramı ve Örnek | Açıklaması                     |    
+| Seri Direnç Kavramı ve Örnek | Açıklaması                    |    
 |----------------------|---------------------------------------|   
 | Seri bağlı direnç kavramı nedir? Arka arkada seri olarak bağlanmış 4 ohm, 6 ohm ve 10 ohm’luk 3 adet direncin devre üzerinde oluşturduğu toplam direnç kaç ohm’dur? Devreye 40 Voltluk bir gerilim uygulandığında seri bağlı direnç üzerinden geçen akımı hesaplayınız (NOT: Birimleri yazmayı unutmayınız) | Seri devrelerde dirençler uç uca bağlanır ve içlerinden aynı akım geçer. Bu devrede üç direnç (4, 6 ve 10 ohm) seri şekilde bağlandığı için, toplam dirençleri doğrudan toplanır. Toplam direnç = 4 + 6 + 10 = 20 ohm; Gerilim = Akım × Direnç, Akım = 40 volt ÷ 20 ohm = 2 A |
 
