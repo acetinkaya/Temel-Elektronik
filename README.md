@@ -106,4 +106,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |----------------------|---------------------------------------|   
 | Paralel bağlı direnç kavramı nedir? 2 adet 3 ohm’luk direnç devre 
 üzerinde paralel bağlıdır. Bu devreye uygulanan gerilim 12V olduğuna göre 
-devre üzerindeki toplam akım kaç A’dır?  | |
+devre üzerindeki toplam akım kaç A’dır?  | Paralel 
