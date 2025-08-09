@@ -105,3 +105,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Paralel Direnç Kavramı ve Örnek | Açıklaması                 |   
 |----------------------|---------------------------------------|   
 | Paralel bağlı direnç kavramı nedir? 2 adet 3 ohm’luk direnç devre 
+üzerinde 
