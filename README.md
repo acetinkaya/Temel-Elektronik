@@ -104,4 +104,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Paralel Direnç Kavramı ve Örnek | Açıklaması                 |   
 |----------------------|---------------------------------------|   
-| Paralel 
+| Paralel bağlı direnç kavramı nedir? 
