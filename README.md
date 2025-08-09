@@ -108,4 +108,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 üzerinde paralel bağlıdır. Bu devreye uygulanan gerilim 12V olduğuna göre 
 devre üzerindeki toplam akım kaç A’dır?  | Paralel devrelerde gerilim tüm 
 dirençlere eşit dağılır. Yani her direncin uçları arasında 12 V vardır. Ohm 
-Yasası: I = V / R,  I₁ = 12 V ÷ 6 Ω = 2 A , I₂ = 12 V ÷ 3 Ω = 4 A ,  I_toplam = I₁ + I₂ = 2 A + 4 A = 6 A , Devreden geçen
+Yasası: I = V / R,  I₁ = 12 V ÷ 6 Ω = 2 A , I₂ = 12 V ÷ 3 Ω = 4 A ,  I_toplam = I₁ + I₂ = 2 A + 4 A = 6 A , Devreden geçen toplam akım 6 amper’dir. | 
