@@ -127,6 +127,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Transistörler ve Çeşitleri | Açıklaması               |   
 |----------------------|--------------------------------| 
 | Transistör kavramı nedir? Transistörün iç yapısının anlatımını yapınız? | Transistör, yarı iletken malzemeden üretilmiş, üç uca sahip ve elektrik sinyallerini yükseltmek veya anahtarlamak amacıyla kullanılan temel bir devre elemanıdır. Üç ucu sırasıyla taban (base), kollektör (collector) ve emiter (emitter) olarak adlandırılır. Taban ucuna uygulanan küçük bir akım veya gerilim, kollektör-emiter arasındaki daha büyük bir akımı kontrol eder. |
-| Transistörler yapısal olarak kaç çeşitle ayrılır, yapısına göre açıklayınız? | Yapısal ve çalışma prensibine göre farklı transistör türleri vardır. Bipolar birleşimli transistörler (BJT), iki PN birleşiminden oluşur ve NPN ile PNP olmak üzere iki tipe ayrılır.
-
-
+| Transistörler yapısal olarak kaç çeşitle ayrılır, yapısına göre açıklayınız? | Yapısal ve çalışma prensibine göre farklı transistör türleri vardır. Bipolar birleşimli transistörler (BJT), iki PN birleşiminden oluşur ve NPN tipi transistörlerde akım taşıyıcıları elektronlar olup pozitif lojik devrelerde yaygın olarak kullanılırken, PNP tipi transistörlerde akım taşıyıcıları deliklerdir ve bazı özel devrelerde tercih edilir.  |
