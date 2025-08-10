@@ -114,4 +114,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Diyot çeşitleri nelerdir? Kullanım alanlarına göre açıklayınız? | Diyotlar kullanım amacına göre farklı türlere ayrılır. Doğrultucu diyotlar, alternatif akımı (AC) doğru akıma (DC) çevirmek için kullanılırken; zener diyotlar gerilim sabitleme ve voltaj regülasyonu görevini üstlenir. LED’ler (ışık yayan diyotlar) aydınlatma ve gösterge amaçlı kullanılırken, Schottky diyotlar düşük voltaj düşümü ve yüksek hızlı anahtarlama için tercih edilir. Fotodiyotlar ışık algılayan sensörler olarak görev yaparken, varikap diyotlar radyo frekans devrelerinde kapasite ayarlama amacıyla kullanılır. |
 | Diyotların kullanım alanları, avantajları ve dezavantajları nedir? | Diyotların en yaygın uygulamaları arasında yarım dalga ve tam dalga doğrultma devreleri, voltaj sabitleme devreleri, LED göstergeler, ters polarite koruması, aşırı gerilimden korunma ve yüksek frekanslı anahtarlama sistemleri yer alır. Basit yapıları, düşük maliyetleri ve güvenilir çalışmaları diyotların avantajları arasında sayılırken, ters yöndeki sınırlı dayanım ve ileri yönde oluşan voltaj düşümü ise başlıca dezavantajlarıdır. |
 
+6. Hafta - 
+
 
