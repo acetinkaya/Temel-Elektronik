@@ -117,4 +117,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 6. Hafta - Diyot Uygulamaları
 
 | Diyot Uygulamaları | Açıklaması                 |   
-
+|----------------------|--------------------------------| 
+|   |   |
