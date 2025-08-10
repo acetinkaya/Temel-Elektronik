@@ -111,6 +111,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Diyot ve Diyot Çeşitleri | Açıklaması                 |   
 |----------------------|--------------------------------|   
 |  Diyot kavramı  nedir? |  Diyot, iki uçtan "anot ve katot"  oluşan yarı iletken bir devre elemanı olup elektriği yalnızca tek yönde iletirken diğer yönde yalıtım yapan  elektronik devre elemanıdır. Çalışma prensibi, P-tipi ve N-tipi yarı iletkenlerin birleşmesiyle oluşan PN birleşimine dayanır. Anot pozitif, katot negatif bağlandığında diyot iletim yönünde çalışarak akım geçirir; tersi durumda ise ters polarma gerçekleşir ve akım geçişi engellenir. Diyotlar kullanım amacına göre farklı türlere ayrılır. |
-| Diyot çeşitleri nelerdir? Kullanım alanlarına göre açıklayınız? | Diyotlar kullanım amacına göre farklı türlere ayrılır. |
+| Diyot çeşitleri nelerdir? Kullanım alanlarına göre açıklayınız? | Diyotlar kullanım amacına göre farklı türlere ayrılır. Doğrultucu diyotlar,
 
 
