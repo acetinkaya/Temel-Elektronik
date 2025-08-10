@@ -120,4 +120,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |----------------------|--------------------------------| 
 |   |   |
 
-7. Hafta -
+7. Hafta - Vize Sınavı 
