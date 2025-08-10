@@ -126,4 +126,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Transistörler ve Çeşitleri | Açıklaması               |   
 |----------------------|--------------------------------| 
-| Transistör kavramı nedir? Yapısının anlatımını yapınız? | Transistör, yarı iletken 
+| Transistör kavramı nedir? Yapısının anlatımını yapınız? | Transistör, yarı iletken malzemeden üretilmiş, 
