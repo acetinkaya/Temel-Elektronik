@@ -34,7 +34,7 @@ Amaç: Bu ders, öğrencilere temel elektronik bileşenlerin çalışma prensipl
 
 4. Hafta - Paralel Direnç Devreleri ve Uygulamaları
 
-5. Hafta - Dİyot ve Diyot Çeşitleri
+5. Hafta - Diyot ve Diyot Çeşitleri
 
 6. Hafta - Diyot Uygulamaları
 
