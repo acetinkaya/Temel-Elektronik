@@ -110,4 +110,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Diyot ve Diyot Çeşitleri | Açıklaması                 |   
 |----------------------|--------------------------------|   
-|  Diyot kavramı  nedir? |  Diyot, iki uçtan "anot ve katot"  oluşan yarı iletken bir
+|  Diyot kavramı  nedir? |  Diyot, iki uçtan "anot ve katot"  oluşan yarı iletken bir devre elemanı olup elektriği yalnızca 
