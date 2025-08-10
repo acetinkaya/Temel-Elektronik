@@ -122,5 +122,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 7. Hafta - Vize Sınavı Haftası (Tüm Öğrencilerimize Sınavlarında Başarılar Dilerim.)
 
-8. Hafta - 
+8. Hafta - Transistörler
 
