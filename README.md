@@ -126,4 +126,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Transistörler ve Çeşitleri | Açıklaması               |   
 |----------------------|--------------------------------| 
-| Transistör kavramı nedir? Yapısının anlatımını yapınız? | Transistör, yarı iletken malzemeden üretilmiş, üç uca sahip ve elektrik sinyallerini yükseltmek veya anahtarlamak amacıyla kullanılan temel bir devre elemanıdır. Üç ucu sırasıyla taban (base), kollektör (collector) ve emiter (emitter) olarak adlandırılır. 
+| Transistör kavramı nedir? Yapısının anlatımını yapınız? | Transistör, yarı iletken malzemeden üretilmiş, üç uca sahip ve elektrik sinyallerini yükseltmek veya anahtarlamak amacıyla kullanılan temel bir devre elemanıdır. Üç ucu sırasıyla taban (base), kollektör (collector) ve emiter (emitter) olarak adlandırılır. Taban ucuna 
