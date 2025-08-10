@@ -110,4 +110,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Diyot ve Diyot Çeşitleri | Açıklaması                 |   
 |----------------------|--------------------------------|   
-|  Diyot kavramı ve dİyot Çeşitleri nedir? |     | 
+|  Diyot kavramı  nedir? |  Diyot, iki uçtan "anot ve katot"  
