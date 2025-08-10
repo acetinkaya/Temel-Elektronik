@@ -124,3 +124,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 8. Hafta - Transistörler ve Çeşitleri
 
+| Transistörler ve Çeşitleri | Açıklaması               |   
+|----------------------|--------------------------------| 
+|   |   |
