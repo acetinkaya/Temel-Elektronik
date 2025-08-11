@@ -131,10 +131,11 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Transistörler nerelerde kullanır? | Transistörler; ses ve radyo sinyallerinin yükseltilmesinde, dijital anahtarlama işlemlerinde, motor kontrol devrelerinde, güç regülasyon sistemlerinde ve osilatör devrelerinde yaygın olarak kullanılmaktadır. |
 
 9. Hafta - Transistör Uygulamaları
+
 |----------------------|--------------------------------| 
 |   |   |
 
-10. Hafta - Sayı Sistemleri
+11. Hafta - Sayı Sistemleri
 
 | Sayı Sistemleri | Açıklaması               |   
 |----------------------|--------------------------------| 
