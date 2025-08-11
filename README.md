@@ -132,8 +132,9 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 9. Hafta - Transistör Uygulamaları
 
-|----------------------|--------------------------------| 
-|   |   |
+| Transistör Uygulamaları | Açıklaması               |   
+|----------------------|--------------------------------|     
+|   |   |   
 
 11. Hafta - Sayı Sistemleri
 
