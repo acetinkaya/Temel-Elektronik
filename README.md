@@ -140,6 +140,6 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Sayı Sistemleri | Açıklaması               |   
 |----------------------|--------------------------------| 
-| | |
+|  |  |
 
 
