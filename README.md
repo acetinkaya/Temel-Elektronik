@@ -140,7 +140,8 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Sayı Sistemleri | Açıklaması               |   
 |----------------------|--------------------------------| 
-| Sayı Sistemi kavramı nedir? | Sayı sistemleri, sayıları farklı tabanlarda ifade etme ve bu ifadeler arasında dönüşüm yapma yöntemlerini kapsayan, dijital teknolojilerin temelini oluşturan bir kavramdır. |
+| Sayı Sistemi kavramı nedir? | Sayı sistemleri, sayıları farklı tabanlarda ifade etme ve bu ifadeler arasında dönüşüm yapma yöntemlerini kapsayan, dijital teknolojilerin temelini oluşturan bir kavramdır. |   
+| Sayı sistemlerin türleri nedir? |
 
 
 
