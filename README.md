@@ -130,5 +130,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Transistörler yapısal olarak kaç çeşitle ayrılır, yapısına göre açıklayınız? | Yapısal ve çalışma prensibine göre farklı transistör türleri vardır. Bipolar birleşimli transistörler (BJT), iki PN birleşiminden oluşur ve NPN tipi transistörlerde akım taşıyıcıları elektronlar olup pozitif lojik devrelerde yaygın olarak kullanılırken, PNP tipi transistörlerde akım taşıyıcıları deliklerdir ve bazı özel devrelerde tercih edilir.  |
 | Transistörler nerelerde kullanır? | Transistörler; ses ve radyo sinyallerinin yükseltilmesinde, dijital anahtarlama işlemlerinde, motor kontrol devrelerinde, güç regülasyon sistemlerinde ve osilatör devrelerinde yaygın olarak kullanılmaktadır. |
 
-9. Hafta - 
+9. Hafta - Transistör Uygulamaları
 
