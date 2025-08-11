@@ -140,7 +140,7 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Sayı Sistemleri | Açıklaması               |   
 |----------------------|--------------------------------| 
-| Sayı Sistemi kavramı nedir? |
+| Sayı Sistemi kavramı nedir? | Sayı sistemleri, 
 
 
 
