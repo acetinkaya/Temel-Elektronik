@@ -156,5 +156,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |----------------------|--------------------------------|     
 |   |   |   
 
-13. Hafta - 
+13. Hafta - PWM (Pulse-Width Modulation), 
 
