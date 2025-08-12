@@ -147,5 +147,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Lojik Kapılar  | Açıklaması               |   
 |----------------------|--------------------------------|     
-
+|   |   |   
 
