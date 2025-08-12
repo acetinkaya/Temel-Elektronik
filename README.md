@@ -136,14 +136,14 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |----------------------|--------------------------------|     
 |   |   |   
 
-11. Hafta - Sayı Sistemleri
+10. Hafta - Sayı Sistemleri
 
 | Sayı Sistemleri | Açıklaması               |   
 |----------------------|--------------------------------| 
 | Sayı Sistemi kavramı nedir? | Sayı sistemleri, sayıları farklı tabanlarda ifade etme ve bu ifadeler arasında dönüşüm yapma yöntemlerini kapsayan, dijital teknolojilerin temelini oluşturan bir kavramdır. |   
 | Sayı sistemlerin türleri nedir? | Dijital dönüşüm sürecinde mikroişlemciler ve mikrodenetleyiciler deki tüm işlemlerin ikili sistemde gerçekleştirirken, verilerin işlenmesi, depolanması ve iletilmesi aşamalarında ikili (binary), onluk (decimal), sekizlik (octal) ve onaltılık (hexadecimal) gibi farklı sayı sistemleri kullanılmaktadır. |
 
-12. Hafta - Lojik Kapılar 
+11. Hafta - Lojik Kapılar 
 
 | Lojik Kapılar  | Açıklaması               |   
 |----------------------|--------------------------------|     
