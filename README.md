@@ -149,4 +149,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |----------------------|--------------------------------|     
 | Lojik Kapılar Kavramı Nedir? Neyi İfade Etmektedir?  | Lojik kapılar, dijital elektronik sistemlerde mantıksal işlemleri gerçekleştiren temel devre elemanlarıdır. 
 Girişlerinden gelen 0 (LOW) ve 1 (HIGH) değerlerini belirli kurallara göre işleyerek çıkış üretirler. Temel mantık Boolean Cebiri prensiplerine dayanır. |
-| Temel Lojik Kapılar ve Fonksiyonları Nedir? | Temel lojik kapılar, dijital elektronik sistemlerde en basit mantıksal işlemleri gerçekleştiren devre elemanlarıdır.
+| Temel Lojik Kapılar ve Fonksiyonları Nedir? | Temel lojik kapılar, dijital elektronik sistemlerde en basit mantıksal işlemleri gerçekleştiren devre elemanlarıdır. Üç temel lojik kapı bulunur: AND (VE), OR (VEYA) ve NOT (DEĞİL). AND kapısında tüm girişler 1 olduğunda çıkış 1 olur, aksi halde 0’dır. OR kapısında ise girişlerden en az biri 
