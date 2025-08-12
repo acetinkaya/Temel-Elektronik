@@ -147,5 +147,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Lojik Kapılar  | Açıklaması               |   
 |----------------------|--------------------------------|     
-| Lojik Kapılar Kavramı Nedir? Neyi İfade Etmektedir?  |
+| Lojik Kapılar Kavramı Nedir? Neyi İfade Etmektedir?  | Lojik kapılar, dijital elektronik sistemlerde  
 
