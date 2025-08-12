@@ -153,3 +153,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 12. Hafta - Lojik Kapı Uygulamaları
 
 | Lojik Kapı Uygulamaları | Açıklaması               |   
+|----------------------|--------------------------------|     
+|   |   |   
