@@ -145,5 +145,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 12. Hafta - Lojik Kapılar 
 
-
+| Lojik Kapılar  | 
 
