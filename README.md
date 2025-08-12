@@ -151,3 +151,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Temel Lojik Kapılar ve Fonksiyonları Nedir? | Temel lojik kapılar, dijital elektronik sistemlerde en basit mantıksal işlemleri gerçekleştiren devre elemanlarıdır. Üç temel lojik kapı bulunur: AND (VE), OR (VEYA) ve NOT (DEĞİL). AND kapısında tüm girişler 1 olduğunda çıkış 1 olur, aksi halde 0’dır. OR kapısında ise girişlerden en az biri 1 olduğunda çıkış 1 olur. NOT kapısı tek girişli olup girişin tersini üretir; yani giriş 0 ise çıkış 1, giriş 1 ise çıkış 0’dır. Bu kapılar, daha karmaşık mantıksal işlemler gerçekleştiren devrelerin temel yapı taşlarını oluşturur ve bilgisayar işlemcilerinden kontrol sistemlerine kadar birçok elektronik uygulamada kullanılır. |
 
 12. Hafta - Lojik Kapı Uygulamaları
+
+| Lojik Kapı Uygulamaları | Açıklaması               |   
