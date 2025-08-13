@@ -170,4 +170,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Elektronikte İş Güvenliği | Açıklaması               |   
 |----------------------|--------------------------------|     
-| Elektronikte İş Güvenliği Nedir? | Elektronikte iş güvenliği, 
+| Elektronikte İş Güvenliği Nedir? | Elektronikte iş güvenliği, elektrik ve elektronik devrelerle çalışırken çalışanın 
