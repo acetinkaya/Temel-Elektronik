@@ -164,5 +164,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | PWM Nerelerde Kullanılır? | Motor hız kontrolü (DC motorlar, servo motorlar), LED parlaklık ayarı, Ses sinyali üretimi ve Güç elektroniğinde enerji verimliliği sağlama |
 | Görev Döngüsü (Duty Cycle) Nedir? | PWM sinyalinin açık olduğu süre ile toplam periyot süresinin oranına görev döngüsü denir. Görev Döngüsü Formülü = Ton / ( Ton + Toff ) × 100 |
 | ADC (Analog-to-Digital Converter) – Analog-Dijital Dönüştürücü Nedir? | ADC, sürekli değişen (analog) elektrik sinyallerini sayısal (dijital) değerlere dönüştüren elektronik devredir. ADC için önemli olan çözünürlüktür. Buda Adım Sayısı  = 2^n olarak hesaplanır. | 
-| PWM, Duty Cycle ve ADC bir led üzerindeki ilişkisi nedir? | PWM, LED’in ortalama gücünü belirler. Duty Cycle, ne kadar parlak yanacağını kontrol eder (%20 soluk, %80 parlak) ve ADC, 
+| PWM, Duty Cycle ve ADC bir led üzerindeki ilişkisi nedir? | PWM, LED’in ortalama gücünü belirler. Duty Cycle, ne kadar parlak yanacağını kontrol eder (%20 soluk, %80 parlak) ve ADC, Potansiyometre ile ayarlanan voltajı okur ve 
 
