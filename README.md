@@ -160,4 +160,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | PWM, Duty Cycle ve ADC | Açıklaması               |   
 |----------------------|--------------------------------|     
-| PWM (Pulse-Width Modulation) – Darbe Genişlik Modülasyonu Nedir? | PWM, dijital bir sinyalin açık (ON) ve kapalı (OFF) sürelerinin 
+| PWM (Pulse-Width Modulation) – Darbe Genişlik Modülasyonu Nedir? | PWM, dijital bir sinyalin açık (ON) ve kapalı (OFF) sürelerinin değiştirilerek ortalama çıkış
