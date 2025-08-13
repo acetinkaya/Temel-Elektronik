@@ -169,3 +169,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 14. Hafta - Elektronikte İş Güvenliği
 
 | Elektronikte İş Güvenliği | Açıklaması               |   
+|----------------------|--------------------------------|     
+| Elektronikte İş Güvenliği Nedir? | Elektronikte iş güvenliği, 
