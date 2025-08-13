@@ -170,5 +170,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | Elektronikte İş Güvenliği | Açıklaması               |   
 |----------------------|--------------------------------|     
-| Elektronikte İş Güvenliği Nedir? | Elektronikte iş güvenliği, elektrik ve elektronik devrelerle çalışırken çalışanın 
-sağlığını korumak, kazaları önlemek ve ekipmanların güvenli çalışmasını sağlamak için alınan önlemler bütünüdür. Bu önlemler, hem düşük voltajlı devrelerde hem de yüksek gerilimli sistemlerde geçerlidir. |  
+| Elektronikte İş Güvenliği Nedir? | Elektronikte iş güvenliği, elektrik ve elektronik devrelerle çalışırken çalışanın sağlığını korumak, kazaları önlemek ve ekipmanların güvenli çalışmasını sağlamak için alınan önlemler bütünüdür. Bu önlemler, hem düşük voltajlı devrelerde hem de yüksek gerilimli sistemlerde geçerlidir. |  
