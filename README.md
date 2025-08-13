@@ -162,4 +162,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 |----------------------|--------------------------------|     
 | PWM (Pulse-Width Modulation) – Darbe Genişlik Modülasyonu Nedir? | PWM, dijital bir sinyalin açık (ON) ve kapalı (OFF) sürelerinin değiştirilerek ortalama çıkış gücünün kontrol edilmesini sağlayan bir tekniktir. |   
 | PWM Nerelerde Kullanılır? | Motor hız kontrolü (DC motorlar, servo motorlar), LED parlaklık ayarı, Ses sinyali üretimi ve Güç elektroniğinde enerji verimliliği sağlama |
-|Görev Döngüsü (Duty Cycle) Nedir? | PWM sinyalinin 
+|Görev Döngüsü (Duty Cycle) Nedir? | PWM sinyalinin açık olduğu süre ile toplam periyot süresinin 
