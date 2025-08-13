@@ -160,4 +160,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 | PWM, Duty Cycle ve ADC | Açıklaması               |   
 |----------------------|--------------------------------|     
-|   |   |   
+| PWM 
