@@ -158,4 +158,4 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 13. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
 
-| PWM,
+| PWM, Duty Cycle 
