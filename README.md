@@ -167,3 +167,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 | Led üzerinde PWM, Duty Cycle ve ADC'yi örneklendirerek anlatımını veriniz? | PWM, LED’in ortalama gücünü belirler. Duty Cycle, ne kadar parlak yanacağını kontrol eder (%20 soluk, %80 parlak) ve ADC, Potansiyometre ile ayarlanan voltajı okur ve PWM sinyalinin görev döngüsünü belirler. |
 
 14. Hafta - Elektronikte İş Güvenliği
+
+| Elektronikte İş Güvenliği | Açıklaması               |   
