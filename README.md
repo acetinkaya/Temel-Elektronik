@@ -176,4 +176,4 @@ Riskler Nedir? | Elektronikte karşılaşılan başlıca riskler arasında elekt
 15. Hafta - Final Sınavı Haftası (Tüm Öğrencilerimize Sınavlarında Başarılar Dilerim.)
 
 Bu depo, [acetinkaya](https://github.com/acetinkaya) tarafından 2025 yılında oluşturulmuştur.   
-This repository was created by [acetinkaya]
+This repository was created by [acetinkaya](https://github.com
