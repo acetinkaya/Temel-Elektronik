@@ -175,4 +175,4 @@ Riskler Nedir? | Elektronikte karşılaşılan başlıca riskler arasında elekt
 
 15. Hafta - Final Sınavı Haftası (Tüm Öğrencilerimize Sınavlarında Başarılar Dilerim.)
 
-Bu 
+Bu depo, 
