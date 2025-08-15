@@ -174,3 +174,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 Riskler Nedir? | Elektronikte karşılaşılan başlıca riskler arasında elektrik çarpması, yanıklar, yangın riski, göz hasarları ve kimyasal tehlikeler yer almaktadır. Elektrik çarpması, vücuttan geçen akımın oluşturduğu tehlikeler nedeniyle en önemli risklerden biridir ve ciddi yaralanmalara hatta ölüme yol açabilir. Yanıklar, genellikle lehimleme işlemleri, kısa devreler veya yüksek akımın oluşturduğu aşırı ısınma sonucu meydana gelir. Aşırı akım, hatalı bağlantılar veya kıvılcımlar ise yangın riskini artırır. Lehimleme sırasında sıçrayan parçacıklar, ark ışığı veya patlayan bileşenler göz sağlığını tehdit edebilir. Ayrıca, lehim teli, temizleme sıvıları ve batarya elektrolitleri gibi kimyasal maddeler, hem cilt hem de solunum yolu sağlığı açısından zararlı olabilir. Bu risklerin her biri, uygun güvenlik önlemleri ve kişisel koruyucu donanımlar kullanılarak minimize edilebilir. |
 
 15. Hafta - Final Sınavı Haftası (Tüm Öğrencilerimize Sınavlarında Başarılar Dilerim.)
+
+Bu 
